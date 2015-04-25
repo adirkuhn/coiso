@@ -13,6 +13,7 @@ Abrir o browser http://localhost:8801/read_log.php?user=<userx>
 ---
 
 Para rodar versão Python
+------------------------
 
 Instalar o Flask
 > $ pip install Flask
