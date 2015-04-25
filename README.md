@@ -7,7 +7,7 @@ Criar os logs:
 Testar a aplicação:
 > $ php -S localhost:8801
 
-Abrir o browser http://localhost:8801/read_log.php?user=<userx>
+Abrir o browser http://localhost:8801/read_log.php?user=[userx]
 > Ex. http://localhost:8801/read_log.php?user=user2
 
 ---
@@ -21,5 +21,5 @@ Instalar o Flask
 Testar a aplicação
 > $ python read_log.py
 
-Abrir o browser http://127.0.0.1:5000/?user=<userx>
+Abrir o browser http://127.0.0.1:5000/?user=[userx]
 > Ex. http://127.0.0.1:5000/?user=user2
